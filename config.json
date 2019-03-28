@@ -6,9 +6,11 @@
   "widgetProperties": {
     "baseUrlTemplate": "https://github.com/dhuppenkothen/tesseract/raw/master/{0}.jpg",
     "delimiter": "__",
-    "leftSwipeLabel": "no binary",
+    "leftSwipeLabel": "no eclipsing binary",
     "rightSwipeLabel": "eclipsing binary",
-    "maskUrlTemplate": null
+    "soundUrlTemplate": null,
+    "maskUrlTemplate": null,
+    "template": null
   },
   "iconAttribute": {
     "name": "openmoji",
@@ -74,20 +76,20 @@
   },
   "betaMode": false,
   "firebaseKeys": {
-    "apiKey": "AIzaSyAoijXeD5YqnxFVVkHwRp_t_Tj0DqiQf6I",
-    "authDomain": "tesseract-b2987.firebaseapp.com",
-    "databaseURL": "https://tesseract-b2987.firebaseio.com",
-    "projectId": "tesseract-b2987",
-    "storageBucket": "tesseract-b2987.appspot.com",
-    "messagingSenderId": "53118843382"
+    "apiKey": "AIzaSyBlZpt0plJCqCQZ1SFvWzT2lf7j_svcc2Y",
+    "authDomain": "tess-eract.firebaseapp.com",
+    "databaseURL": "https://tess-eract.firebaseio.com",
+    "projectId": "tess-eract",
+    "storageBucket": "tess-eract.appspot.com",
+    "messagingSenderId": "634042330497"
   },
   "app": {
-    "navbarVariant": "primary"
+    "navbarVariant": "warning"
   },
   "home": {
     "title": "TESSeract",
-    "tagline": "Looking for binaries in TESS Data",
-    "backgroundUrl": "https://github.com/dhuppenkothen/tesseract/raw/master/lmc-distance-discovery.jpg"
+    "tagline": "Finding Eclipsing Binaries in TESS light curves",
+    "backgroundUrl": "https://raw.githubusercontent.com/dhuppenkothen/tesseract/master/lmc-distance-discovery.jpg"
   },
   "play": {
     "blankImage": "https://raw.githubusercontent.com/SwipesForScience/testConfig/master/images/undraw_blank_canvas.svg?sanitize=true"
