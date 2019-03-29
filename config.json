@@ -7,10 +7,7 @@
     "baseUrlTemplate": "https://github.com/dhuppenkothen/tesseract/raw/master/{0}.jpg",
     "delimiter": "__",
     "leftSwipeLabel": "no eclipsing binary",
-    "rightSwipeLabel": "eclipsing binary",
-    "soundUrlTemplate": null,
-    "maskUrlTemplate": null,
-    "template": null
+    "rightSwipeLabel": "eclipsing binary"
   },
   "iconAttribute": {
     "name": "openmoji",
@@ -84,12 +81,12 @@
     "messagingSenderId": "634042330497"
   },
   "app": {
-    "navbarVariant": "warning"
+    "navbarVariant": "info"
   },
   "home": {
     "title": "TESSeract",
     "tagline": "Finding Eclipsing Binaries in TESS light curves",
-    "backgroundUrl": "https://raw.githubusercontent.com/dhuppenkothen/tesseract/master/lmc-distance-discovery.jpg"
+    "backgroundUrl": "https://github.com/dhuppenkothen/tesseract/raw/master/lmc-distance-discovery.jpg"
   },
   "play": {
     "blankImage": "https://raw.githubusercontent.com/SwipesForScience/testConfig/master/images/undraw_blank_canvas.svg?sanitize=true"
